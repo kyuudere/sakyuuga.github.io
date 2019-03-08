@@ -4,16 +4,15 @@ layout: page
 title: "About"
 crawlertitle: "Why and how this blog was created"
 permalink: /about/
-summary: "About this blog"
+summary: "About Me"
 active: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hello, this is kyuudere. This is my second blog after my [old one](https://sakyuuga.wordpress.com) got suspended by wordpress. I build this blog using jekyll theme povided by [unix-lab.org](http://www.unix-lab.org/voyager/) and hosting it through github because I want a full control of my site. 
 
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+My blog is focused on animation appreciation (or sakuga), specifically for anime (I rarely watch western animation). I also plan to translate sakuga/animation related articles, such as AnimeStyle talk event report, magazine interviews, etc. I might write one or two blog posts about manga or film, maybe even about music videos and such in the future. But I'll keep focusing on anime for now.  
 
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+If you like what I've been doing and want to give support, you can find me on [ko-fi](https://ko-fi.com/kyuudere). Feel free to drop by, even a simple "thanks" is enough to keep me motivated! :)
+
+
+You can contact me through [twitter](https://twitter.com/sakyuuga) or just e-mail me at sakyuuga@gmail.com
